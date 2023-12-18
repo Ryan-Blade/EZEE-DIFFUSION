@@ -3,7 +3,8 @@
 
 **One Click Installation Script For Stable diffusion WebUI**
 
-# NOTE : THIS SCRIPT IS TESTED AND FULLY WORKS ON WINDOWS, SEPERATE SCRIPT FOR LINUX IS BEING WORKED UPON !
+# NOTE : -THIS SCRIPT IS TESTED AND FULLY WORKS ON WINDOWS, SEPERATE SCRIPT FOR LINUX IS BEING WORKED UPON !
+# YOU NEED **GIT TO BE ALREADY INSTALLED**, YOU CAN DOWNLOAD IT FROM https://git-scm.com/download/win       
 
 DESCRIPTIONS ON THE AUTO-INSTALLATION SCRIPT :
 1) This script installs Stable Diffusion's webui version locally on your pc, and its completely offline

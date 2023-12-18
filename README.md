@@ -1,5 +1,6 @@
 # EZEE-DIFFUSION
 ![](https://res.cloudinary.com/db7mzrftq/image/upload/f_auto/c_limit,w_auto/q_auto/how_to_make_gif_animations_with_stable_diffusion_animatediff_gif_44d364c1ba.gif)
+
 **One Click Installation Script For Stable diffusion WebUI**
 
 # NOTE : THIS SCRIPT IS TESTED AND FULLY WORKS ON WINDOWS, SEPERATE SCRIPT FOR LINUX IS BEING WORKED UPON !

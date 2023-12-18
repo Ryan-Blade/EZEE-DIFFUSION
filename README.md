@@ -11,6 +11,6 @@ DESCRIPTIONS ON THE AUTO-INSTALLATION SCRIPT :
 3) For resolving issues and a more comprehensive guide related to it, you should visit : https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 **TIP:**
-*-Edit the **webui-user.bat** inside the stable diffusion folder and add a line "git pull"(without quotes) at the very top so that everytime you start the stable diffusion
-  it will check for the latest version and auto update it.*
--To start the stable diffusion, just click of the **webui-user.bat** and your set to go....
+1) Edit the **webui-user.bat** inside the stable diffusion folder and add a line "git pull"(without quotes) at the very top so that everytime you start the stable diffusion
+   it will check for the latest version and auto update it.*
+2) To start the stable diffusion, just click of the **webui-user.bat** and your set to go....
